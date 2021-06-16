@@ -5,7 +5,7 @@
 //                 ExE Boss <https://github.com/ExE-Boss>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
-/// <reference path="ts4.0/index.d.ts"/>
+/// <reference path="./ts4.0/index.d.ts"/>
 
 // tslint:disable-next-line: no-declare-current-package no-single-declare-module
 declare module "jsdom" {
